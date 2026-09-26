@@ -1,0 +1,260 @@
+{
+  "dealership": "North Vancouver Nissan Infiniti North Vancouver",
+  "generated_at": "2026-09-25T19:06:04",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Kicks S CVT2021 Nissan",
+      "vin": "3N1CP5BV8ML483201",
+      "stock": "N113484",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/fbe9b291fb4a.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/kicks/2021-nissan-kicks-id39034615",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/kicks/2021-nissan-kicks-id39034615?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:18",
+      "odometer_km": 58454,
+      "condition": "used"
+    },
+    {
+      "name": "Kicks SV AWD2025 Nissan",
+      "vin": "3N8AP6CB2SL403648",
+      "stock": "26416A",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/b0fdc8901e33.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39056107",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39056107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:33",
+      "odometer_km": 46096,
+      "condition": "used"
+    },
+    {
+      "name": "Leaf Plus SV2023 Nissan",
+      "vin": "1N4CZ1CV8PC558256",
+      "stock": "N115480",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/a4d3ac5fbf31.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39006056",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39006056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:48",
+      "odometer_km": 24887,
+      "condition": "used"
+    },
+    {
+      "name": "Murano AWD SV2025 Nissan",
+      "vin": "5N1AZ3BS2SC116548",
+      "stock": "N116461",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/1a1e9619f8ec.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id38541368",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id38541368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:51:02",
+      "condition": "used"
+    },
+    {
+      "name": "Pathfinder Rock Creek AWD2023 Nissan",
+      "vin": "5N1DR3BE7PC239163",
+      "stock": "26274A",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/2903c4a35895.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/pathfinder/2023-nissan-pathfinder-id38776269",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/pathfinder/2023-nissan-pathfinder-id38776269?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:51:18",
+      "odometer_km": 65310,
+      "condition": "used"
+    },
+    {
+      "name": "Qashqai SV2021 Nissan",
+      "vin": "JN1BJ1BW9MW446781",
+      "stock": "26422A",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/cc2784a83b1d.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/qashqai/2021-nissan-qashqai-id39049122",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/qashqai/2021-nissan-qashqai-id39049122?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:51:34",
+      "odometer_km": 40591,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue Platinum CVT2021 Nissan",
+      "vin": "JN8AT3DDXMW315731",
+      "stock": "26447A",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/2e0472c66a98.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39192210",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39192210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:51:52",
+      "odometer_km": 36287,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue S AWD2023 Nissan",
+      "vin": "5N1AT3AB9PC859766",
+      "stock": "26255B",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ab9b589bbb63.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39052646",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39052646?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:52:06",
+      "odometer_km": 32232,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue SL AWD2023 Nissan",
+      "vin": "JN8BT3CBXPW192909",
+      "stock": "26420A",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/26fdb1a1225a.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39108542",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39108542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:52:20",
+      "odometer_km": 20549,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue AWD Platinum2024 Nissan",
+      "vin": "JN8BT3DD1RW255866",
+      "stock": "26350A",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/041c644578c9.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39178073",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39178073?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:52:36",
+      "odometer_km": 15689,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue AWD SL2025 Nissan",
+      "vin": "JN8BT3CB8SW167547",
+      "stock": "N116468",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/15797a9c660c.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2025-nissan-rogue-id38655700",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/rogue/2025-nissan-rogue-id38655700?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:52:52",
+      "odometer_km": 7147,
+      "condition": "used"
+    },
+    {
+      "name": "Z NISMO Auto2024 Nissan",
+      "vin": "JN1BZ4CH8RM361458",
+      "stock": "N12F000",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/2dd2f70771ff.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/z/2024-nissan-z-id39061207",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/nissan/z/2024-nissan-z-id39061207?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:53:08",
+      "odometer_km": 3834,
+      "condition": "used"
+    },
+    {
+      "name": "Kicks Rock Creek AWD2027 Nissan",
+      "vin": "3N8AP6CB4VL310800",
+      "stock": "27014",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/a05be6225e67.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116879?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116879?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:03:00",
+      "condition": "new"
+    },
+    {
+      "name": "Kicks SR Premium AWD2027 Nissan",
+      "vin": "3N8AP6DD7VL310063",
+      "stock": "27016",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/365367ba7c71.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116887?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116887?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:03:16",
+      "condition": "new"
+    },
+    {
+      "name": "Kicks Rock Creek AWD2027 Nissan",
+      "vin": "3N8AP6CBXVL310607",
+      "stock": "27013",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/e0dc02ebe888.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116893?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116893?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:03:32",
+      "condition": "new"
+    },
+    {
+      "name": "Kicks Rock Creek AWD2027 Nissan",
+      "vin": "3N8AP6CBXVL310381",
+      "stock": "27015",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/b35a23b28b1e.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116903?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116903?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:03:46",
+      "condition": "new"
+    },
+    {
+      "name": "Kicks S AWD2027 Nissan",
+      "vin": "3N8AP6BB5VL302142",
+      "stock": "27008",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/b4e135132ef9.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116904?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116904?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:04:00",
+      "condition": "new"
+    },
+    {
+      "name": "Kicks SV AWD2027 Nissan",
+      "vin": "3N8AP6CB1VL308602",
+      "stock": "27012",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/c12b78295024.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116909?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39116909?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:04:17",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF Platinum+2027 Nissan",
+      "vin": "JN1AZ2EBXVM401140",
+      "stock": "27007",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/76e6f8f80ebe.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116878",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116878?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:04:33",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA4VM400128",
+      "stock": "27003",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/7247156ecb12.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116886",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116886?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:04:47",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA0VM401227",
+      "stock": "27011",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/48cc96b3bcff.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116901",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:05:02",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA2VM400127",
+      "stock": "27004",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/0b4ded6938ed.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116908",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39116908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:05:18",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BAXVM401154",
+      "stock": "27021",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/4603b4bca282.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39164060",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39164060?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:05:32",
+      "condition": "new"
+    },
+    {
+      "name": "Murano Platinum2027 Nissan",
+      "vin": "5N1AZ3DS2VC100318",
+      "stock": "27002",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/a4da2e2556b6.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/murano/2027-nissan-murano-id39116895?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/murano/2027-nissan-murano-id39116895?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:05:48",
+      "condition": "new"
+    }
+  ]
+}
