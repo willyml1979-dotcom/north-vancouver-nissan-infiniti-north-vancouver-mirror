@@ -1,7 +1,7 @@
 {
   "dealership": "North Vancouver Nissan Infiniti North Vancouver",
-  "generated_at": "2026-10-20T20:59:04",
-  "vehicle_count": 1316,
+  "generated_at": "2026-10-20T21:11:51",
+  "vehicle_count": 1319,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12998,6 +12998,18 @@
     },
     {
       "name": "Kicks SV Premium AWD2026 Nissan",
+      "vin": "3N8AP6CB3TL391348",
+      "stock": "26213",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/0b8b8259b678.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38192782",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38192782?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:05:58",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks SV Premium AWD2026 Nissan",
       "vin": "3N8AP6CBXTL392674",
       "stock": "26219",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/0ee9422acae2.html",
@@ -13027,7 +13039,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/3839fabea763.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38240734",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38240734?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:33:23",
+      "last_verified": "2026-10-20T21:08:00",
       "odometer_km": 3028,
       "condition": "new",
       "city": "North Vancouver",
@@ -13040,7 +13052,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/92183d3dbfe7.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248258",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:33:39",
+      "last_verified": "2026-10-20T21:08:17",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13052,7 +13064,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/35dabcb7fb45.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248259",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:33:56",
+      "last_verified": "2026-10-20T21:08:30",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13064,7 +13076,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/4907f320bdb1.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248260",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248260?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:34:10",
+      "last_verified": "2026-10-20T21:08:46",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13076,7 +13088,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/9cee446f3717.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248261",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248261?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:34:26",
+      "last_verified": "2026-10-20T21:09:02",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13088,7 +13100,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/f345145fe473.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248262",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248262?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:34:42",
+      "last_verified": "2026-10-20T21:09:18",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13100,7 +13112,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/34abccd7ecd0.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248264",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248264?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:34:56",
+      "last_verified": "2026-10-20T21:09:34",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13112,7 +13124,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/6ef9ff513913.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248266",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:35:11",
+      "last_verified": "2026-10-20T21:09:49",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13124,7 +13136,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/fd20b9932615.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248270",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248270?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:35:25",
+      "last_verified": "2026-10-20T21:10:06",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13136,7 +13148,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/917cb63ebe3a.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248278",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248278?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:35:41",
+      "last_verified": "2026-10-20T21:10:21",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13148,7 +13160,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/150fcbacdf5b.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38256409",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38256409?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:35:55",
+      "last_verified": "2026-10-20T21:10:36",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13160,7 +13172,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/b9fa6de4d8ac.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38272311",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38272311?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:36:12",
+      "last_verified": "2026-10-20T21:10:50",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13172,7 +13184,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/24fb96625a1b.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334303",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334303?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:36:26",
+      "last_verified": "2026-10-20T21:11:06",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13184,7 +13196,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/1c73721726b0.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334307",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334307?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:36:43",
+      "last_verified": "2026-10-20T21:11:21",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13196,7 +13208,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/81ef405fec81.html",
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38340785",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38340785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:36:59",
+      "last_verified": "2026-10-20T21:11:37",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13550,18 +13562,6 @@
       "province": "BC"
     },
     {
-      "name": "Kicks SV AWD2026 Nissan",
-      "vin": "3N8AP6CB2TL431967",
-      "stock": "N226103",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/3ee43f93e236.html",
-      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38649094",
-      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38649094?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:44:21",
-      "condition": "new",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Kicks S FWD2026 Nissan",
       "vin": "3N8AP6BE0TL431297",
       "stock": "26399",
@@ -13569,6 +13569,18 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38706718",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38706718?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T05:44:38",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks SR Premium AWD2026 Nissan",
+      "vin": "3N8AP6DD6TL434998",
+      "stock": "26398",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/2de0e4f32c21.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38706725",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38706725?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:06:14",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13790,18 +13802,6 @@
       "province": "BC"
     },
     {
-      "name": "Kicks S AWD2027 Nissan",
-      "vin": "3N8AP6BB1VL302431",
-      "stock": "N227104",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/2ad1e4074d35.html",
-      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178054",
-      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178054?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:49:34",
-      "condition": "new",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Kicks S FWD2027 Nissan",
       "vin": "3N8AP6BE2VL310788",
       "stock": "N227104",
@@ -13833,6 +13833,18 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178058",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T05:50:21",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks SV AWD2027 Nissan",
+      "vin": "3N8AP6CB6VL301628",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/d26f07ce872a.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178059",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178059?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:06:30",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13989,6 +14001,18 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39246625",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39246625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T05:53:42",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks Rock Creek AWD2027 Nissan",
+      "vin": "3N8AP6CB2VL322976",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/fd1277dfc39d.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39274893",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39274893?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:06:44",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14205,6 +14229,18 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39237589",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39237589?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T05:59:07",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "LEAF SV Plus2026 Nissan",
+      "vin": "JN1AZ2CAXTM308240",
+      "stock": "26460",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/b8cf30487afe.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39387655",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39387655?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:06:58",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14451,18 +14487,6 @@
       "province": "BC"
     },
     {
-      "name": "LEAF Platinum+2027 Nissan",
-      "vin": "JN1AZ2EB8VM402089",
-      "stock": "27030",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/140eac7f4d2f.html",
-      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39290068",
-      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39290068?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T06:03:13",
-      "condition": "new",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "LEAF S+2027 Nissan",
       "vin": "JN1AZ2BA0VM401823",
       "stock": "N227104",
@@ -14658,6 +14682,18 @@
     },
     {
       "name": "Rogue Plug-in Hybrid Platinum2026 Nissan",
+      "vin": "JA4T0MA96TZ623232",
+      "stock": "26449",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/b14e2d30395f.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue-plug-in-hybrid/2026-nissan-rogue-plug-in-hybrid-id39237587",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue-plug-in-hybrid/2026-nissan-rogue-plug-in-hybrid-id39237587?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:07:16",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue Plug-in Hybrid Platinum2026 Nissan",
       "vin": "JA4T0MA99TZ622883",
       "stock": "26452",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/9a7b425222d9.html",
@@ -14712,18 +14748,6 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36953132",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36953132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T06:08:22",
-      "condition": "new",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Rogue SV Moonroof2026 Nissan",
-      "vin": "JN8BT3BB0TW085427",
-      "stock": "26049",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/8e4a8b378529.html",
-      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36992191",
-      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36992191?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T06:08:39",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -15313,18 +15337,6 @@
       "province": "BC"
     },
     {
-      "name": "Rogue S2026 Nissan",
-      "vin": "JN8BT3AB2TW099086",
-      "stock": "26331",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/4207e877b09d.html",
-      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id38586692",
-      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id38586692?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T06:21:42",
-      "condition": "new",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Rogue SV Moonroof2026 Nissan",
       "vin": "JN8BT3BB7TW097199",
       "stock": "26341",
@@ -15392,6 +15404,18 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id38586714",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id38586714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T06:23:18",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue S2026 Nissan",
+      "vin": "JN8BT3AB0TW384949",
+      "stock": "26337",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/0378b3fc2720.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id38586716",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id38586716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:07:30",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -16341,6 +16365,18 @@
       "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39116892",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39116892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T06:44:01",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue SV Dark Armor2026 Nissan",
+      "vin": "JN8BT3BB3TW390663",
+      "stock": "26439",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/1d1f5966f9c3.html",
+      "source_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39116897",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39116897?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:07:45",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
