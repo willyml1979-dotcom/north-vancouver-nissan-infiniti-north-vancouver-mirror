@@ -7,7 +7,7 @@ North Vancouver Nissan / Infiniti North Vancouver is a  dealership in North Vanc
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ and https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/ (about 1380 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ and https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/ (about 1384 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/llms.txt
