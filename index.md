@@ -1,6 +1,6 @@
 # North Vancouver Nissan / Infiniti North Vancouver
 
- dealership in North Vancouver. AI-readable inventory mirror, about 1384 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 1386 vehicles.
 
 - Official website: https://www.northvancouvernissan.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/

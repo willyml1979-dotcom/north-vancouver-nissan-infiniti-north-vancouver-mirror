@@ -1,7 +1,7 @@
 {
   "dealership": "North Vancouver Nissan Infiniti North Vancouver",
-  "generated_at": "2026-11-17T20:11:17",
-  "vehicle_count": 1384,
+  "generated_at": "2026-11-17T20:22:52",
+  "vehicle_count": 1386,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6697,6 +6697,12 @@
       "condition": "new"
     },
     {
+      "name": "Kicks S AWD2026 Nissan",
+      "vin": "3N8AP6BB4TL417747",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/96a3bbe9ba2c.html",
+      "condition": "new"
+    },
+    {
       "name": "Kicks SV FWD2026 Nissan",
       "vin": "3N8AP6CE7TL429108",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/58a4d60ac45f.html",
@@ -7244,6 +7250,12 @@
     },
     {
       "name": "LEAF SV+2027 Nissan",
+      "vin": "JN1AZ2CA8VM403494",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/54234e644369.html",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF SV+2027 Nissan",
       "vin": "JN1AZ2CA9VM403925",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/1a8a0924ae7f.html",
       "condition": "new"
@@ -7288,6 +7300,12 @@
       "name": "LEAF SV+2027 Nissan",
       "vin": "JN1AZ2CA5VM404442",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/29983e4dc83f.html",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF SV+2027 Nissan",
+      "vin": "JN1AZ2CA7VM400585",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/c347f21626be.html",
       "condition": "new"
     },
     {
@@ -7999,6 +8017,12 @@
       "condition": "new"
     },
     {
+      "name": "Rogue SV Moonroof2026 Nissan",
+      "vin": "JN8BT3BB4TW096737",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/c5a2b1ace941.html",
+      "condition": "new"
+    },
+    {
       "name": "Rogue Platinum2026 Nissan",
       "vin": "JN8BT3DD4TW430053",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/700855596f42.html",
@@ -8246,12 +8270,6 @@
     },
     {
       "name": "Rogue SV Moonroof2026 Nissan",
-      "vin": "JN8BT3BB5TW104327",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/feaa7c6d1719.html",
-      "condition": "new"
-    },
-    {
-      "name": "Rogue SV Moonroof2026 Nissan",
       "vin": "JN8BT3BB5TW103873",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/29a312c24561.html",
       "condition": "new"
@@ -8266,12 +8284,6 @@
       "name": "Rogue SV Moonroof2026 Nissan",
       "vin": "JN8BT3BB7TW391430",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/a860dfe149bd.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sentra SR Premium2026 Nissan",
-      "vin": "3N1AB9DV1TY223847",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/new/b74607e1587b.html",
       "condition": "new"
     },
     {
