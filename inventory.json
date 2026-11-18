@@ -1,7 +1,7 @@
 {
   "dealership": "North Vancouver Nissan Infiniti North Vancouver",
-  "generated_at": "2026-11-18T06:15:18",
-  "vehicle_count": 1364,
+  "generated_at": "2026-11-18T14:42:10",
+  "vehicle_count": 1367,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/22ff7faf23f6.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/7690d3468abe.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/732a324bb9ff.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/89d3481129ab.html",
       "condition": "used"
     },
     {
@@ -411,6 +423,12 @@
       "name": "RS 5 Sportback 2.9T quattro 8sp Tiptronic2024 Audi",
       "vin": "WUAAWCF57RA901500",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/05a7c3b399a1.html",
+      "condition": "used"
+    },
+    {
+      "name": "RS 5 2.9T quattro 8sp Tiptronic Cpe2024 Audi",
+      "vin": "WUANWAF57RA901051",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ff6df154703b.html",
       "condition": "used"
     },
     {
