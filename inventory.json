@@ -1,7 +1,7 @@
 {
   "dealership": "North Vancouver Nissan Infiniti North Vancouver",
-  "generated_at": "2026-11-17T20:22:52",
-  "vehicle_count": 1386,
+  "generated_at": "2026-11-18T06:03:25",
+  "vehicle_count": 1366,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -45,6 +45,12 @@
       "name": "Integra Type S MT2025 Acura",
       "vin": "19UDE5G95SA800201",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/3ed1fb1cdd0b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S MT2025 Acura",
+      "vin": "19UDE5G96SA800160",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ee335dc57607.html",
       "condition": "used"
     },
     {
@@ -186,12 +192,6 @@
       "condition": "used"
     },
     {
-      "name": "RDX A-Spec2021 Acura",
-      "vin": "5J8TC2H62ML807747",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/2d3832d1d7e6.html",
-      "condition": "used"
-    },
-    {
       "name": "RDX SH-AWD Tech at2021 Acura",
       "vin": "5J8TC2H56ML809881",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/c1992d2659ae.html",
@@ -306,12 +306,6 @@
       "condition": "used"
     },
     {
-      "name": "A6 3.0T Progressiv quattro2019 Audi",
-      "vin": "WAUK2AF29KN056104",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/385373a7be29.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv quattro 8sp Tiptronic2019 Audi",
       "vin": "WA1EECF35K1066254",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/5244813a82b1.html",
@@ -372,12 +366,6 @@
       "condition": "used"
     },
     {
-      "name": "Q6 e-tron Progressiv quattro2025 Audi",
-      "vin": "WA154BGF1SA007658",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/dad1ea2a4fb1.html",
-      "condition": "used"
-    },
-    {
       "name": "Q7 3.0T Technik quattro 8sp Tiptronic2017 Audi",
       "vin": "WA1WABF73HD025173",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/3e9e68b76ef0.html",
@@ -426,12 +414,6 @@
       "condition": "used"
     },
     {
-      "name": "RS 5 2.9T quattro 8sp Tiptronic Cpe2024 Audi",
-      "vin": "WUANWAF57RA901051",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ff6df154703b.html",
-      "condition": "used"
-    },
-    {
       "name": "RS 6 Avant 4.0T quattro 8sp S-tronic2022 Audi",
       "vin": "WUA1CBF28NN901033",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/d08fe0062002.html",
@@ -465,6 +447,12 @@
       "name": "RS Q8 4.0T quattro 8sp Tiptronic2023 Audi",
       "vin": "WU1ARBF12PD037479",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/52d129c975a8.html",
+      "condition": "used"
+    },
+    {
+      "name": "RS Q8 TFSI quattro2024 Audi",
+      "vin": "WU1ARBF15RD013583",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/9dfb1ed435ef.html",
       "condition": "used"
     },
     {
@@ -717,12 +705,6 @@
       "name": "M5 Sedan2025 BMW",
       "vin": "WBS83FK0XSCU12642",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/9f5687bc74a3.html",
-      "condition": "used"
-    },
-    {
-      "name": "M8 Competition Coupe2025 BMW",
-      "vin": "WBSAE0C08SCU02442",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/48967f1c65c2.html",
       "condition": "used"
     },
     {
@@ -1130,12 +1112,6 @@
       "condition": "used"
     },
     {
-      "name": "Edge SE AWD2022 Ford",
-      "vin": "2FMPK4G97NBB00277",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ff36ebb235c2.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/142485348416.html",
@@ -1154,21 +1130,9 @@
       "condition": "used"
     },
     {
-      "name": "Explorer ST 4WD2025 Ford",
-      "vin": "1FMWK8GC9SGC08774",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/cb9561262a4a.html",
-      "condition": "used"
-    },
-    {
       "name": "F-150 HYBRID Supercab Lariat - Powerboost2021 Ford",
       "vin": "1FTFW1ED3MFA93691",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/22fa8a744bb2.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
-      "vin": "1FTEW1E84PFB92751",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/1bd078b0865f.html",
       "condition": "used"
     },
     {
@@ -1190,9 +1154,9 @@
       "condition": "used"
     },
     {
-      "name": "F150 Lightning 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/8738633f36ea.html",
+      "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
+      "vin": "1FTFW5L87TKD28385",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/140905e963e4.html",
       "condition": "used"
     },
     {
@@ -1322,12 +1286,6 @@
       "condition": "used"
     },
     {
-      "name": "Acadia AWD Denali2019 GMC",
-      "vin": "1GKKNXLS1KZ117069",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/7fb95d2a592c.html",
-      "condition": "used"
-    },
-    {
       "name": "Acadia AWD AT42023 GMC",
       "vin": "1GKKNLLS9PZ158730",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4c6976bf35e4.html",
@@ -1370,18 +1328,6 @@
       "condition": "used"
     },
     {
-      "name": "Sierra 1500 Crewcab Denali2026 GMC",
-      "vin": "1GTUUHE89TZ106532",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/1c3d27f349ed.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
-      "vin": "1GTUUHE8XTZ101002",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/822d5cfaa92e.html",
-      "condition": "used"
-    },
-    {
       "name": "Sierra 2500 Classic SLE Crew Cab 4WD2007 GMC",
       "vin": "1GTHK23K97F519187",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/96e23e63a8eb.html",
@@ -1390,7 +1336,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Medium Box AT42024 GMC",
+      "name": "Sierra 3500HD Crewcab 4WD2024 GMC",
       "vin": "1GT49VEY1RF273378",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/dfce549724cd.html",
       "condition": "used"
@@ -1465,12 +1411,6 @@
       "name": "Accord SE CVT Sedan2025 Honda",
       "vin": "1HGCY1F48SA800081",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/549e5a649000.html",
-      "condition": "used"
-    },
-    {
-      "name": "Accord SE CVT Sedan2025 Honda",
-      "vin": "1HGCY1F48SA800582",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/9571d035ceb1.html",
       "condition": "used"
     },
     {
@@ -1628,6 +1568,14 @@
       "condition": "used"
     },
     {
+      "name": "CR-V EX-L AWD2014 Honda",
+      "vin": "2HKRM4H79EH122130",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/293792f9338a.html",
+      "condition": "used",
+      "price": 17880.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "CR-V LX AWD CVT2019 Honda",
       "vin": "2HKRW2H29KH121476",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/159021d004f5.html",
@@ -1679,12 +1627,6 @@
       "name": "CR-V Sport AWD2024 Honda",
       "vin": "2HKRS4H51RH100486",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/c68395a7d9a0.html",
-      "condition": "used"
-    },
-    {
-      "name": "CR-V Sport AWD2024 Honda",
-      "vin": "2HKRS4H58RH108679",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/5f271a1fc26c.html",
       "condition": "used"
     },
     {
@@ -1753,14 +1695,6 @@
       "vin": "3CZRZ2H54TM100977",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/e1b972dd68f2.html",
       "condition": "used"
-    },
-    {
-      "name": "Odyssey EX2013 Honda",
-      "vin": "5FNRL5H41DB507290",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/72c50be1b445.html",
-      "condition": "used",
-      "price": 4750.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Odyssey Touring2014 Honda",
@@ -1887,12 +1821,6 @@
       "condition": "used"
     },
     {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F74KB506171",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/970f0a3b2f8d.html",
-      "condition": "used"
-    },
-    {
       "name": "Ridgeline Touring2022 Honda",
       "vin": "5FPYK3F70NB500839",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/1a11eb438769.html",
@@ -2007,6 +1935,12 @@
       "condition": "used"
     },
     {
+      "name": "Santa Fe 2.5T XRT AWD 7-Pass2024 Hyundai",
+      "vin": "5NMP3DGLXRH020184",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/742bd0c37904.html",
+      "condition": "used"
+    },
+    {
       "name": "Santa Fe 1.6T Preferred Hybrid AWD 7-Pass2026 Hyundai",
       "vin": "KM8P2DG13TU174586",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/91ee8cc1ae19.html",
@@ -2034,12 +1968,6 @@
       "name": "Tucson AWD 2.4L Urban Edition2020 Hyundai",
       "vin": "KM8J3CAL1LU160645",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/aba73e708ca2.html",
-      "condition": "used"
-    },
-    {
-      "name": "Tucson N Line AWD2023 Hyundai",
-      "vin": "KM8JCCAE8PU239589",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/fcc640e6f2d2.html",
       "condition": "used"
     },
     {
@@ -2130,12 +2058,6 @@
       "name": "F-PACE P575 SVR 575 Edition Auto2025 Jaguar",
       "vin": "SADCZ2FE3SA752374",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/befe3d8075ba.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-TYPE Coupe SVR AWD2017 Jaguar",
-      "vin": "SAJXJ6J80HMK45521",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/933942f4ce5c.html",
       "condition": "used"
     },
     {
@@ -2289,6 +2211,12 @@
       "condition": "used"
     },
     {
+      "name": "Sportage SX Turbo2018 Kia",
+      "vin": "KNDPRCA64J7380901",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/543c125aab09.html",
+      "condition": "used"
+    },
+    {
       "name": "Telluride SX AWD2020 Kia",
       "vin": "5XYP5DHC8LG045742",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/252cd50fa12a.html",
@@ -2301,12 +2229,6 @@
       "condition": "used"
     },
     {
-      "name": "Defender 110 P400 X-Dynamic HSE2021 Land Rover",
-      "vin": "SALE37RU6M2046530",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/9c64f176ace7.html",
-      "condition": "used"
-    },
-    {
       "name": "Defender 90 P400 75th Anniversary (2)2023 Land Rover",
       "vin": "SALEW6EU7P2172410",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4f8598fde62b.html",
@@ -2316,12 +2238,6 @@
       "name": "Defender 130 P400 First Edition (2)2023 Land Rover",
       "vin": "SALEVFEU4P2170889",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ab2943db5599.html",
-      "condition": "used"
-    },
-    {
-      "name": "Defender 110 P400 SE (2)2023 Land Rover",
-      "vin": "SALEP7EU1P2127336",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/5bd569806792.html",
       "condition": "used"
     },
     {
@@ -2469,12 +2385,6 @@
       "condition": "used"
     },
     {
-      "name": "New Range Rover P530 SE SWB - Beautiful truck!2023 Land Rover",
-      "vin": "SALKP9E74PA011644",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/2a0d983fa660.html",
-      "condition": "used"
-    },
-    {
       "name": "New Range Rover P530 SE SWB2023 Land Rover",
       "vin": "SALKP9E79PA086999",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4e7a65c7293b.html",
@@ -2546,6 +2456,12 @@
       "name": "Range Rover Sport HSE2018 Land Rover",
       "vin": "SALWR2RK5JA190558",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/3f9d15421f93.html",
+      "condition": "used"
+    },
+    {
+      "name": "Range Rover Sport V8 Supercharged Autobiography Dynamic2018 Land Rover",
+      "vin": "SALWV2RE2JA807131",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/78a0db8bf6d6.html",
       "condition": "used"
     },
     {
@@ -2699,6 +2615,12 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Velar P380 HSE R-Dynamic2019 Land Rover",
+      "vin": "SALYM2EV0KA781390",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/43e4a7355896.html",
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Velar P250 S2020 Land Rover",
       "vin": "SALYB2EX8LA295418",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/94ccea04c3d3.html",
@@ -2780,6 +2702,12 @@
       "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB (2)2020 Land Rover",
       "vin": "SALGS5SE4LA585140",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/488852aa72ea.html",
+      "condition": "used"
+    },
+    {
+      "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB2020 Land Rover",
+      "vin": "SALGV5SE0LA592156",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/5a2722df5972.html",
       "condition": "used"
     },
     {
@@ -3007,12 +2935,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "CX-5 GT AWD at2017 Mazda",
-      "vin": "JM3KFBDL5H0105322",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/05779ae81209.html",
-      "condition": "used"
-    },
-    {
       "name": "CX-50 GT AWD2024 Mazda",
       "vin": "7MMVABDMXRN217020",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/df227a5dc05b.html",
@@ -3191,12 +3113,6 @@
       "condition": "used"
     },
     {
-      "name": "C43 AMG 4MATIC Sedan2023 Mercedes-Benz",
-      "vin": "W1KAF8HB0PR110677",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/7700c6594a8f.html",
-      "condition": "used"
-    },
-    {
       "name": "C43 AMG 4MATIC Sedan2025 Mercedes-Benz",
       "vin": "W1KAF8HB9SR287009",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/7bc0227de825.html",
@@ -3303,6 +3219,14 @@
       "condition": "used"
     },
     {
+      "name": "E300 4MATIC Sedan2014 Mercedes-Benz",
+      "vin": "WDDHF8BB0EB042345",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/66a2426a752d.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "E350 4MATIC Sedan2020 Mercedes-Benz",
       "vin": "WDDZF8EB9LA713790",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/cf290ea90fd1.html",
@@ -3327,12 +3251,6 @@
       "condition": "used",
       "price": 22995.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "E450 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KZF5KB9NB080093",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/6a41cc7135a9.html",
-      "condition": "used"
     },
     {
       "name": "E450 4MATIC Sedan2026 Mercedes-Benz",
@@ -3499,12 +3417,6 @@
       "condition": "used"
     },
     {
-      "name": "G63 AMG SUV2020 Mercedes-Benz",
-      "vin": "WDCYC7HJ7LX339473",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/777ff8fb5e15.html",
-      "condition": "used"
-    },
-    {
       "name": "G63 AMG SUV2021 Mercedes-Benz",
       "vin": "W1NYC7HJ0MX368216",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/dcd0caef249a.html",
@@ -3581,12 +3493,6 @@
       "condition": "used"
     },
     {
-      "name": "GLA250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4N4HB2PJ446342",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/d929f89bbc5e.html",
-      "condition": "used"
-    },
-    {
       "name": "GLA250 4MATIC2024 Mercedes-Benz",
       "vin": "W1N4N4HB5RJ602201",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ce9116755b8f.html",
@@ -3660,12 +3566,6 @@
     },
     {
       "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N4M4HB8NW239862",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/780fdab70b8d.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N4M4HBXNW253004",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/6505e5849372.html",
       "condition": "used"
@@ -3680,12 +3580,6 @@
       "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1N4M4HB9PW261274",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/e9a39e21b615.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4M4HB8PW313736",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/f745516c1d41.html",
       "condition": "used"
     },
     {
@@ -3917,6 +3811,12 @@
       "condition": "used"
     },
     {
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EB1PG129218",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/1a89c65a2d08.html",
+      "condition": "used"
+    },
+    {
       "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
       "vin": "W1NKM4HB5RF180735",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4be36a86c31e.html",
@@ -4004,12 +3904,6 @@
       "name": "GLC43 AMG 4MATIC SUV2018 Mercedes-Benz",
       "vin": "WDC0G6EB3JF390979",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/1cdc85167967.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLC43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "WDC0G6EB4JF438389",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/107f0f628531.html",
       "condition": "used"
     },
     {
@@ -4339,26 +4233,10 @@
       "condition": "used"
     },
     {
-      "name": "M-Class 3.0L CDI2008 Mercedes-Benz",
-      "vin": "4JGBB22E18A323515",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/935b9f43f921.html",
-      "condition": "used",
-      "price": 10999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Metris Passenger Van2021 Mercedes-Benz",
       "vin": "W1WV0FEY6M3924748",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/ec1b0e341598.html",
       "condition": "used"
-    },
-    {
-      "name": "ML350 BlueTEC 4MATIC SUV2015 Mercedes-Benz",
-      "vin": "4JGDA2EB5FA531956",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4496c4a8c844.html",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "S580 4MATIC Sedan2023 Mercedes-Benz",
@@ -4426,6 +4304,12 @@
       "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
       "vin": "W1Y4DBHY4MP372249",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/9d437368f305.html",
+      "condition": "used"
+    },
+    {
+      "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
+      "vin": "W1Y4DBHY5MP378738",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4f431ebcf8fd.html",
       "condition": "used"
     },
     {
@@ -4721,12 +4605,6 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Rock Creek AWD2023 Nissan",
-      "vin": "5N1DR3BE7PC239163",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/2903c4a35895.html",
-      "condition": "used"
-    },
-    {
       "name": "Pathfinder SV V6 4x4 at2023 Nissan",
       "vin": "5N1DR3BE4PC247141",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/a292abcdb5bc.html",
@@ -4742,12 +4620,6 @@
       "name": "Pathfinder SL 4WD2024 Nissan",
       "vin": "5N1DR3CE1RC248975",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/4b1872a2956d.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SL AWD CVT2023 Nissan",
-      "vin": "JN1BJ1BW0PW102616",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/c705001fe19d.html",
       "condition": "used"
     },
     {
@@ -4850,12 +4722,6 @@
       "name": "Rogue AWD SV Moonroof2025 Nissan",
       "vin": "JN8BT3BBXSW176302",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/be3e9968b9c2.html",
-      "condition": "used"
-    },
-    {
-      "name": "Rogue AWD S2025 Nissan",
-      "vin": "JN8BT3AB5SW156251",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/31f6c8e2593c.html",
       "condition": "used"
     },
     {
@@ -5001,12 +4867,6 @@
       "condition": "used"
     },
     {
-      "name": "Cayenne2021 Porsche",
-      "vin": "WP1AA2AY0MDA01017",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/c1eb9a1d22c2.html",
-      "condition": "used"
-    },
-    {
       "name": "Cayenne GTS2023 Porsche",
       "vin": "WP1AG2AY1PDA18086",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/172a73b9f3c8.html",
@@ -5112,6 +4972,12 @@
       "name": "RAM 1500 Classic Crew Cab 4x4 (DS) ST (140.5 WB 5'7 Box) SWB2021 Ram",
       "vin": "3C6RR7KT9MG536225",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/944a614412fc.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2021 Ram",
+      "vin": "1C6RR7LG4MS569482",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/324137d60b28.html",
       "condition": "used"
     },
     {
@@ -5491,6 +5357,12 @@
       "condition": "used"
     },
     {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDCXTH462293",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/e55c497a4ca1.html",
+      "condition": "used"
+    },
+    {
       "name": "Forester Convenience 2.5L CVT2026 Subaru",
       "vin": "JF2SLDAC0TH459276",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/c4c939b22684.html",
@@ -5731,6 +5603,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Wilderness Turbo2025 Subaru",
+      "vin": "4S4BTHTD753167501",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/7df4e8afbfb4.html",
+      "condition": "used"
+    },
+    {
       "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
       "vin": "JF2BURHD2TY463662",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/52876b3240b3.html",
@@ -5779,12 +5657,6 @@
       "condition": "used"
     },
     {
-      "name": "Model 3 Standard Range Plus2020 Tesla",
-      "vin": "5YJ3E1EA1LF670216",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/74fdeeb368f5.html",
-      "condition": "used"
-    },
-    {
       "name": "Model 3 Standard Range Plus2021 Tesla",
       "vin": "5YJ3E1EA2MF048211",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/bb9e966f90de.html",
@@ -5794,12 +5666,6 @@
       "name": "Model 3 Long Range AWD2023 Tesla",
       "vin": "5YJ3E1EB9PF676618",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/59f66eccb0e4.html",
-      "condition": "used"
-    },
-    {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB4SF932236",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/b6ce0bfe9951.html",
       "condition": "used"
     },
     {
@@ -5884,6 +5750,12 @@
       "name": "4Runner2023 Toyota",
       "vin": "JTEKU5JRXP6105087",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/defd80e2584c.html",
+      "condition": "used"
+    },
+    {
+      "name": "4Runner2023 Toyota",
+      "vin": "JTENU5JR7P6090125",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/8ebdc21811b1.html",
       "condition": "used"
     },
     {
@@ -6029,12 +5901,6 @@
       "condition": "used"
     },
     {
-      "name": "Sequoia Hybrid 4x4 TRD Off Road2023 Toyota",
-      "vin": "7SVAAABA0PX015148",
-      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/dd2c2c2dce8a.html",
-      "condition": "used"
-    },
-    {
       "name": "Sequoia Hybrid Sequoia Limited2026 Toyota",
       "vin": "7SVAAABA9TX092840",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/c4472242e14b.html",
@@ -6107,6 +5973,12 @@
       "condition": "used"
     },
     {
+      "name": "Tundra Hybrid CrewMax Limited2024 Toyota",
+      "vin": "5TFWC5DB3RX063138",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/a66c1bfb14c3.html",
+      "condition": "used"
+    },
+    {
       "name": "Tundra Hybrid CrewMax Limited2025 Toyota",
       "vin": "5TFWC5DB0SX094465",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/09254b2130c5.html",
@@ -6130,6 +6002,12 @@
       "name": "Atlas Cross Sport Execline 2.0 TSI 4MOTION2025 Volkswagen",
       "vin": "1V2FE2CA4SC213979",
       "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/9abd36838860.html",
+      "condition": "used"
+    },
+    {
+      "name": "Beetle Wolfsburg Edition Convertible 2.0T 6sp at w/Tip2019 Volkswagen",
+      "vin": "3VW5DAAT5KM502332",
+      "url": "https://willyml1979-dotcom.github.io/north-vancouver-nissan-infiniti-north-vancouver-mirror/used/b5fe4c55480d.html",
       "condition": "used"
     },
     {
